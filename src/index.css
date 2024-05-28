@@ -1,0 +1,32 @@
+.titulo {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo2 {
+  display: flex;
+  justify-content: center;
+}
+
+.tabela,
+th,
+td {
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: lightgray;
+}
+
+.tabelaEstilo {
+  display: flex;
+  justify-content: center;
+}
